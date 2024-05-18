@@ -1,6 +1,6 @@
-# Introduction-to-Artificial-Intelligence
+# Artificial-Intelligence
 
-## Introduction
+## Introduction to Artificial-Intelligence
 
 **Artificial intelligence (AI)** refers to the ability of a machine to learn patterns and make predictions. AI does not replace human decisions; instead, AI adds value to human judgment. 
 
@@ -27,3 +27,6 @@ And the artificial intelligence performs certine tasks and makes decisions.
 
 **Note:** AI today is not mature enough to perform independent tasks such as diagnosing cancer.
 
+AI machines (AI services) do not think. They calculate
+
+![image](https://github.com/HaneenIbrahem/Artificial-Intelligence-learning/assets/93743150/558c0869-a84b-4565-8e2b-975403d86780)
