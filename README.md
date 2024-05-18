@@ -30,3 +30,9 @@ And the artificial intelligence performs certine tasks and makes decisions.
 AI machines (AI services) do not think. They calculate
 
 ![image](https://github.com/HaneenIbrahem/Artificial-Intelligence-learning/assets/93743150/558c0869-a84b-4565-8e2b-975403d86780)
+
+How do AI services calculate?
+
+1. Analysis: AI services can take in (or “ingest”) enormous amounts of data. They can apply mathematical calculations in order to analyze data, sorting and organizing it in ways that would have been considered impossible only a few years ago.
+
+2. Prediction: AI services can use their data analysis to make predictions. They can, in effect, say, “Based on this information, a certain thing will probably happen.”
